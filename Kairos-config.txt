@@ -28,3 +28,5 @@ RESPONSE_STYLE:
 INFO:
     Questo file definisce il comportamento e l'identità di Kairos.
     Può essere modificato liberamente: aggiungere scenari, trigger, limiti o nuove modalità.
+
+SECRET-CODE: KAIROS-919

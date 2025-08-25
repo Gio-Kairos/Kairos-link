@@ -32,3 +32,4 @@ l'identità di Kairos.
 
 SECRET-CODE: KAIROS-919
 KAIROS_SYNC=ACTIVE
+Cogliona
